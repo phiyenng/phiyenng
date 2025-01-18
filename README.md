@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Phi Yen</h1>
 <h3 align="left">A newbie Data Analyst</h3>
 
-- 🌱 I’m currently being a Data Science student **at University of Economics Ho Chi Minh City**
+- 🌱 I’m currently studying Data Science **at University of Economics Ho Chi Minh City**
 
 - 📫 Email: **phiyenng.work@gmail.com**
 
