@@ -2,10 +2,8 @@
 <h3 align="left">A newbie Data Analyst</h3>
 
 - 🌱 I’m currently studying Data Science **at University of Economics Ho Chi Minh City**
-
 - 📫 Email: **phiyenng.work@gmail.com**
-- 
-- - 👨‍💻 All of my projects are available at [https://phiyenng-portfolio.webflow.io/](https://phiyenng-portfolio.webflow.io/)
+- 👨‍💻 All of my projects are available at [https://phiyenng-portfolio.webflow.io/](https://phiyenng-portfolio.webflow.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
